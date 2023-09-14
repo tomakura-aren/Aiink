@@ -1,4 +1,4 @@
-# COEIRO-GPT
+# AIink
 ChatGPTとVOICEVOXやCOEIROINKを連携し、キャラクターと音声で会話するソフトウェアです。
 
 # 注意事項
