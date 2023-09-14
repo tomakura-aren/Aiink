@@ -28,3 +28,5 @@ ChatGPTとVOICEVOXやCOEIROINKを連携し、キャラクターと音声で会�
 - アップデートチェッカー
 - ヘルプページの作成
 - 履歴の保存機能
+
+Powered by ChatGPT
