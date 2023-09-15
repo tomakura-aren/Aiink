@@ -1,5 +1,5 @@
 # AIink
-ChatGPTとVOICEVOXやCOEIROINKを連携し、キャラクターと音声で会話するソフトウェアです。
+ChatGPTとCOEIROINKやVOICEVOXを連携し、キャラクターと音声で会話するソフトウェアです。
 ## 開発中
 このソフトウェアは現在開発中です。リリースできる状態になるまでの道のりは[Releasesページ](https://github.com/tomakura-aren/Aiink/releases)をご覧ください。
 
