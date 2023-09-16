@@ -20,12 +20,21 @@ ChatGPTとCOEIROINKやVOICEVOXを連携し、キャラクターと音声で会�
 今「あったらいーなー」と考えているだけで、実際に実装されるかどうかは誰にも分かりません。
 ## 設定関係
 - COEIROINKから音声一覧を表示して、選択可能にする
-- COEIROINKとVOICEVOXを切り替え
 - キャラクター設定ファイルの保存・読み込み(プリセットみたいにする)
 ## その他
 - チャット欄をいい感じにする
 - アップデートチェッカー
 - ヘルプページの作成
-- 履歴の保存機能
+- 履歴の読込機能
 
-Powered by ChatGPT, COEIROINK, VOICEVOX
+# ライセンス
+AIinkは GPL License の下でリリースされています。詳しくは[LICENSEファイル](https://github.com/tomakura-aren/Aiink/blob/main/LICENSE)を参照してください。
+
+# ガイドライン
+AIinkを使用する前に、必ずガイドラインをご覧ください。<br>AIinkのガイドラインは[公式サイト](https://tomakura.com/aiink/guidelines)を参照してください。(※制作中)<br>特に、AIinkを動画などで使用する場合や、コードの修正･再配布する場合などは必ず全て理解した上での使用をお願いいたします。
+
+# ご支援お待ちしております
+**[pixivFANBOX](https://tomakura.fanbox.cc/)**
+<br>月500円でベータ版の試用ができます！
+
+**_Powered by ChatGPT, COEIROINK, VOICEVOX_**
