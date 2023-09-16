@@ -1,5 +1,5 @@
-![AIink_LOGO](https://github.com/tomakura-aren/Aiink/assets/38022277/7a43f103-e698-4af1-9e08-fbfbe8196311)
-
+![LogoTitle](https://github.com/tomakura-aren/Aiink/assets/38022277/8023c695-581e-4a9f-ac28-7adc22151a58)
+<br>Logo Design by Canva
 # AIink
 ChatGPTとCOEIROINKやVOICEVOXを連携し、キャラクターと音声で会話するソフトウェアです。
 ## 開発中
