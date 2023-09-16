@@ -14,9 +14,10 @@ ChatGPTとCOEIROINKやVOICEVOXを連携し、キャラクターと音声で会�
 - キャラ設定(ChatGPTにロールプレイをさせるための命令文)
 - ChatGPTのAPI使用料
 
-(それぞれの詳細はヘルプに記載)
+# 使い方
+AIinkの使い方は[GitHub Wiki](https://github.com/tomakura-aren/Aiink/wiki)をご覧ください
 
-# 更新予定
+# 実装予定の機能
 今「あったらいーなー」と考えているだけで、実際に実装されるかどうかは誰にも分かりません。
 ## 設定関係
 - COEIROINKから音声一覧を表示して、選択可能にする
